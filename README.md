@@ -23,3 +23,5 @@ This is a completely automatic video player for BJUT dangke platform.
 2. If you find anything wrong, please email me aiinirii@163.com.
 
 3. Be patient, the program need to sleep after complete one step.
+
+4. For now, it can only be implement in win10 platform.

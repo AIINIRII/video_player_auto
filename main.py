@@ -12,7 +12,7 @@ class MainWindow(mainwindow.Ui_MainWindow, QMainWindow):
 
     def __init__(self, parent=None):
         super(MainWindow, self).__init__(parent)
-        self.driver = webdriver.Chrome()
+        self.driver = webdriver.Chrome(executable_path=".\chromedriver.exe")
         self.video_num = 0
         self.cookies = []
         self.setupUi(self)
