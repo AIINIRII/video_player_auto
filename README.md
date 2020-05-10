@@ -12,9 +12,9 @@ This is a completely automatic video player for BJUT dangke platform.
 
 2. Open [BJUT VPN](https://vpn.bjut.edu.cn/) to connect the Intranet of BJUT.
 
-3. Enter your username and password, and enter the verification code of BJUT to enable the login.
+3. Click the start button and then log in to the platform.
 
-5. After input all of this, click the button and enjoy.
+4. After input all of this, click the button and enjoy.
 
 ### Attention
 
@@ -24,4 +24,6 @@ This is a completely automatic video player for BJUT dangke platform.
 
 3. Be patient, the program need to sleep after complete one step.
 
-4. For now, it can only be implement in win10 platform.
+4. If you want to watch electives, you have to take them first.
+
+5. For now, it can only be implement in win10 platform.
